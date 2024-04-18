@@ -1,0 +1,1 @@
+Pentru aceasta tema am avut de implementat arbori de sufixe cu constructorii lor, si diferite functii. Primele 3 etape lucram cu liste apoi la etapa 4 am lucrat cu tipul de date definit collections un zaharel pentru streamuri. 
