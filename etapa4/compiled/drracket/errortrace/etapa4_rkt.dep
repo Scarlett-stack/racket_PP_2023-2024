@@ -1,0 +1,1 @@
+("8.12" ta6le ("ebe009a6f91521bcb929a92bfa9b673055ec5608" . "bdefbfe99cb39b95ebd3276b71089a40ca38c1a3") #"/home/daria/Documents/Tema1Racket/etapa4/collection.rkt" #"/home/daria/Documents/Tema1Racket/etapa4/suffix-tree-stream.rkt" (collects #"drracket" #"private" #"drracket-errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
